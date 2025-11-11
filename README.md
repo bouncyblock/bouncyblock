@@ -1,5 +1,5 @@
 
-## hello! my nane is will kuntze, and I make things, sometimes.
+## hello! my name is will kuntze, and I make things, sometimes.
 some things about me:
  - im a high schooler who makes stuff for hack club
  - im learning web development, pcb design, and haxe
