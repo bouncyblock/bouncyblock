@@ -7,7 +7,9 @@
 
 ## places you can talk to me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/will.kuntze)
+
 or the HC Slack, @U09GRHV7Y80
+
 or discord, bouncy_block
 
 # some of the things i've used before
